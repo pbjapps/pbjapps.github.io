@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>PBJApps Projects</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="bower_components/cover.css" rel="stylesheet">
+
+    <link href="bower_components/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand"><img src="pbjLogoV6.png" height="50" width="54"></h3>
+              <ul class="nav masthead-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li class="active"><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+<<<<<<< HEAD
+            <h1 class="cover-heading" style="padding-top:20%">Current Projects</h1>
+             <div class="row" style="padding-top:10%;padding-bottom:5%;">
+=======
+            <h1 class="cover-heading">Current Projects</h1>
+            <div class="row">
+>>>>>>> de918d7d2c8dc3af331e9d20a5c62ee3e84e2271
+              <div class="col-md-4">
+                <img src="symphony_logo_inverted.png"  width="200" height="200">
+              </div>
+              <div class="col-md-8">
+                <p class="lead">Symphony Daily Devotions App</p>
+                <p> 
+                  Every weekday, Symphony Church records a short reading and reflection of a book in the Bible, called a daily devotional.
+                  The idea for the Symphony Daily Devotions app stemmed from the want for an easier way to listen to the daily devotional on the go.   Previously, daily devotions were only accessible through a service which required users to call in to hear the day's recording. Now users can listen to the current week's devotions at the press of a button. So simple...so easy! Why didn't I think of that?</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <img src="euler_portrait.png" >
+              </div>
+              <div class="col-md-8">
+                <p class="lead">Project Denise</p>
+                <p>
+                  An ongoing blog dedicated to logging our <a href="https://projecteuler.net/">Project Euler</a> problem solutions. Project Euler problems can often be solved using neat mathematical concepts and programming insights. This blog is kept private as we don't want to spoil the fun of solving the problems yourself. Go ahead, <a href="https://projecteuler.net/">try some out!</a>
+                  </p>
+              </div>
+            </div>
+            <p class="lead">More projects coming soon...</p>
+            <p>
+              We take commissions too! Ideas or suggestions? <a href="contact.html">Contact us!</a>
+            </p>
+          </div>
+
+		  
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
